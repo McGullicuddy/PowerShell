@@ -1,4 +1,4 @@
-## My answers to UnderTheWire --- https[:]//underthewire[.]tech/century
+## My solutions to UnderTheWire --- https[:]//underthewire[.]tech/century
 
 ### Century 1: 
 	Challenge: The password for Century2 is the build version of the instance of PowerShell installed on this system.
